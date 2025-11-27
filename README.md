@@ -110,7 +110,7 @@ Git & GitHub
 
 🌐 Link do Repositório
 
-https://github.com/larissa-ads/EP4-SQL-ONG-SeuJairo
+[(https://github.com/larissa-ads/EP4-SQL-ONG-SeuJairo)](https://github.com/larissa-ads/EP4-SQL-ONG-SeuJairo)
 
 🙋‍♀️ Autora
 
